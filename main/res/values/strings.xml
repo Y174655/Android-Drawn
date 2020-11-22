@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">drawn</string>
+    <string name="sin">sin函数</string>
+    <string name="sanjiao">三角形</string>
+    <string name="juxing">矩形</string>
+    <string name="yuanxing">圆形</string>
+    <string name="cos">cos函数</string>
+    <string name="x">x^2函数</string>
+</resources>
